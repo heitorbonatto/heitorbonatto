@@ -1,4 +1,4 @@
-### Hi there, my name is Heitor Bonatto
+### Hi there, and welcome !
 
 ---
 I'm a fullstack developer and project manager. I have more than 5 years of experience in business consulting, e-commerce and logistics. 
