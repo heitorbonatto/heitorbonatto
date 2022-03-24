@@ -1,7 +1,7 @@
-### Hi there, 
+### Hi there, my name is Heitor Bonatto
 
 ---
-I'm Heitor from Brazil. PhD in Strategy, Software Developer & Data Scientist for Logistics, Ecommerce & International Trade.
+I'm a software developer and project manager. I have more than 5 years of experience in business consulting, e-commerce and logistics. 
 
 
 ---
