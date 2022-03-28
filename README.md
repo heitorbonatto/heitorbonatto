@@ -1,7 +1,7 @@
 ### Hi there, welcome and thank you !
 
 ---
-I'm a fullstack developer and project manager. I have more than 5 years of experience in business consulting, e-commerce and logistics. Some of my favourite things are playing guitar, reading and learning new technologies.
+I'm a Data Scientist and Fullstack Developer. I have more than 5 years of experience in business consulting, e-commerce and logistics. Some of my favourite things are playing guitar, reading and learning new technologies.
 
 #### Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heitor-bonatto)
@@ -39,6 +39,13 @@ Please see below the stack in alphabetical order that I have knowledge and exper
 [![Mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![Postrgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
+- *Data Science*   
+
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 - *Design Graphic & Interface* 
 
 [![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D.svg?style=for-the-badge&logo=Affinity-Publisher&logoColor=white)](https://affinity.serif.com/en-us/publisher/)
@@ -66,6 +73,7 @@ Please see below the stack in alphabetical order that I have knowledge and exper
 - *Programming Languages - Compilers - Build Tools - Module Bundlers - Helpers - Frameworks/Libraries - Runtime - Web Application Framework* 
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![GULP](https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
 [![VITE](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)](https://vitejs.dev/)
 [![BABEL](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)](https://babeljs.io/)
