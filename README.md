@@ -1,7 +1,7 @@
 ### Hi there, welcome and thank you !
 
 ---
-I'm a Data Scientist and Fullstack Developer. I have more than 5 years of experience in business consulting, e-commerce and logistics. Some of my favourite things are playing guitar, reading and learning new technologies.
+I'm a Data Scientist and Fullstack Developer. Phd in Strategy I have more than 5 years of experience in business consulting, e-commerce and logistics. Some of my favourite things are playing guitar, reading and learning new technologies.
 
 #### Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heitor-bonatto)
